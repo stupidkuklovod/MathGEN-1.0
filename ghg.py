@@ -12,5 +12,7 @@ elif a == 2:
           y = (math.pow(x1, 2)+math.pow(x2, 2)+math.pow(x3, 2)) - 100
           print(y)
 elif a == 3:
-          # сюда 3 модуль
+    y = math.sqrt((math.pow(x1,x2)) * (math.pow(x2,x1)))
+    print(y)
+
 
